@@ -1,3 +1,3 @@
 # hello_world
 my first one
-hello, my name is shiri and i guss im excited to start anything around here
+hello, my name is shirin and i guss i'm excited to start anything around here
